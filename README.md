@@ -7,9 +7,10 @@
 
 
 
+
 ## Introduction
 
-ITMS
+The accelerated proliferation of autonomous vehicles introduces significant challenges within the complex and dynamic landscapes of urban environments. This paper introduces the Intelligent Traffic Management System (ITMS), a groundbreaking solution designed to enhance the integration of self-driving vehicles and prioritize emergency response units in traffic management. We detail the design, development, and systematic evaluation of ITMS, which seeks to optimize intersection management by leveraging sophisticated computer vision techniques and intricate traffic logic algorithms. This system underscores a strategic approach towards mitigating traffic congestion, ensuring the seamless flow of vehicles, and significantly improving the efficacy of emergency responses in urban settings. Through ITMS, we aim to facilitate a more harmonious coexistence between autonomous and conventional vehicles, thereby contributing to the advancement of intelligent transportation systems.
 
 
 ## Tutorials
